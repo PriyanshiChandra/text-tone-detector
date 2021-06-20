@@ -1,3 +1,4 @@
+punkt
 stopwords
 word_tokenize
 PorterStemmer
