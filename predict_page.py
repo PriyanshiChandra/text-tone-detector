@@ -18,5 +18,5 @@ def show_predict_page():
             st.markdown(":-1:")
             st.write("""### Your text will sound negative to readers. Please change the  text to sound positive """)
         else:
-            st.markdown(":clap")
+            st.markdown(":clap:")
             st.write("""### Good Job. Your text will sound positive to readers """)
