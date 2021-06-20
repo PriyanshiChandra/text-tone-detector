@@ -15,6 +15,8 @@ def show_predict_page():
     if ok:
         ans = redirect(text)
         if ans == 0:
-            st.write("""### Your text will sound negative to readers """)
+            st.markdown(":-1:")
+            st.write("""### Your text will sound negative to readers. Please change the  text to sound positive """)
         else:
-            st.write("""### Your text will sound positive to readers """)
+            st.markdown(":clap")
+            st.write("""### Good Job. Your text will sound positive to readers """)
