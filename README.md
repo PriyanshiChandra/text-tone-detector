@@ -22,7 +22,7 @@ We learned NLP and data preprocessing. We also learned the use of regular expres
 3. Assistance for specially abled people
 
 ## Contributors
-*<a href="https://github.com/PriyanshiChandra">Priyanshi Chandra</a>
-*<a href="https://github.com/shi-srivastava">Shivakshi Sheel Srivastava</a>
-*<a href="https://github.com/nisha3p">Nisha Prakash</a>
+<a href="https://github.com/PriyanshiChandra">Priyanshi Chandra</a><br>
+*<a href="https://github.com/shi-srivastava">Shivakshi Sheel Srivastava</a><br>
+*<a href="https://github.com/nisha3p">Nisha Prakash</a><br>
 *<a href="https://github.com/nishisharma311">Nishi Sharma</a>
