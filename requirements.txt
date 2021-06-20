@@ -3,8 +3,8 @@ pandas
 numpy
 scikit-learn
 matplotlib 
-re
-pickle
+
+
 nltk 
 
 
