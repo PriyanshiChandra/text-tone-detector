@@ -23,6 +23,6 @@ We learned NLP and data preprocessing. We also learned the use of regular expres
 
 ## Contributors
 <a href="https://github.com/PriyanshiChandra">Priyanshi Chandra</a><br>
-*<a href="https://github.com/shi-srivastava">Shivakshi Sheel Srivastava</a><br>
-*<a href="https://github.com/nisha3p">Nisha Prakash</a><br>
-*<a href="https://github.com/nishisharma311">Nishi Sharma</a>
+<a href="https://github.com/shi-srivastava">Shivakshi Sheel Srivastava</a><br>
+<a href="https://github.com/nisha3p">Nisha Prakash</a><br>
+<a href="https://github.com/nishisharma311">Nishi Sharma</a>
