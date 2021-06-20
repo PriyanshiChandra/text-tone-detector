@@ -4,6 +4,7 @@ Social media is a blessing if we want to reach a larger audience but for people 
 ## What it does
 <a href="http://text-tone-detect.herokuapp.com/">__Text Tone Detector__</a> is a machine learning based application that detects the tone of the message as positive or negative to prevent hate speech. 
 
+
 ## How we built it
 We built it using `Jupyter Notebooks`, `NLTK`,`scikit-learn` libraries , created the interface using `streamlit` and deployed using `heroku`.
 
@@ -21,8 +22,9 @@ We learned NLP and data preprocessing. We also learned the use of regular expres
 2. Improved UI
 3. Assistance for specially abled people
 
-## Contributors
-<a href="https://github.com/PriyanshiChandra">Priyanshi Chandra</a><br>
-<a href="https://github.com/shi-srivastava">Shivakshi Sheel Srivastava</a><br>
-<a href="https://github.com/nisha3p">Nisha Prakash</a><br>
-<a href="https://github.com/nishisharma311">Nishi Sharma</a>
+## Contributers
+  * [Nisha](https://github.com/nisha3p)
+  * [Nishi](https://github.com/nishisharma311)
+  * [Priyanshi](https://github.com/PriyanshiChandra)
+  * [Shivakshi](https://github.com/shi-srivastava)
+
