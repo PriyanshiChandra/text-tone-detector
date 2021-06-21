@@ -3,7 +3,8 @@ import pandas as pd
 import numpy as np
 import matplotlib as plt
 import re
-from data_load import prediction
+from data_load import prediction, addition_to_database
+
 
 def show_predict_page():
     st.title("Text tone detector")
@@ -20,5 +21,12 @@ def show_predict_page():
         else:
             st.markdown(":clap:")
             st.write("""### Good Job. Your text will sound positive to readers """)
-        st.write("Feedback")
+        
+        feedback=st.text_input("Feedback")
+        F=[]
+        F.append(feedback)
+
+
+
+
     
