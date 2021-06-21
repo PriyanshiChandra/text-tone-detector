@@ -20,3 +20,5 @@ def show_predict_page():
         else:
             st.markdown(":clap:")
             st.write("""### Good Job. Your text will sound positive to readers """)
+        st.write("Feedback")
+    
