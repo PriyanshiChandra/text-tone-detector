@@ -52,7 +52,7 @@ def get_tweets_for_model(cleaned_tokens_list):
 
 def prediction(custom):
     
-    with open('saved_steps_new.pk1','rb') as file:
+    with open('saved_steps.pk1','rb') as file:
         data=pickle.load(file)
     model_loaded=data['classifier']
     
