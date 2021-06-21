@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib as plt
 import re
-from data_load import redirect
+from data_load import prediction
 
 def show_predict_page():
     st.title("Text tone detector")
@@ -13,8 +13,8 @@ def show_predict_page():
     ok = st.button("Check Tone")
 
     if ok:
-        ans = redirect(text)
-        if ans == 0:
+        ans = prediction(text)
+        if ans == "Negative":
             st.markdown(":-1:")
             st.write("""### Your text will sound negative to readers. Please change the  text to sound positive """)
         else:
